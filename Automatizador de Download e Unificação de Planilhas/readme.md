@@ -6,7 +6,7 @@ O objetivo é facilitar processos repetitivos do dia a dia, principalmente em ro
 
 🚀 Funcionalidade Principal
 
-✔️ Baixa automaticamente 6 arquivos Excel de URLs pré-definidas
+✔️ Baixa automaticamente 6 arquivos Excel de URLs pré-definidas \
 ✔️ Lê cada arquivo como um DataFrame do Pandas
 ✔️ Cria um único Excel contendo cada arquivo como uma aba separada
 ✔️ Interface super simples via Flask (um botão para baixar o arquivo final)
