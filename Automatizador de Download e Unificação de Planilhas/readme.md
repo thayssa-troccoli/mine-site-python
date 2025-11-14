@@ -7,18 +7,18 @@ O objetivo é facilitar processos repetitivos do dia a dia, principalmente em ro
 🚀 Funcionalidade Principal
 
 ✔️ Baixa automaticamente 6 arquivos Excel de URLs pré-definidas \
-✔️ Lê cada arquivo como um DataFrame do Pandas
-✔️ Cria um único Excel contendo cada arquivo como uma aba separada
-✔️ Interface super simples via Flask (um botão para baixar o arquivo final)
-✔️ Tudo gerado instantaneamente sem precisar baixar manualmente cada planilha
+✔️ Lê cada arquivo como um DataFrame do Pandas \
+✔️ Cria um único Excel contendo cada arquivo como uma aba separada \
+✔️ Interface super simples via Flask (um botão para baixar o arquivo final) \
+✔️ Tudo gerado instantaneamente sem precisar baixar manualmente cada planilha \
 
 🚀 Objetivo
 
-✔️ Facilitar o trabalho das supervisoras
-✔️ Centralizar todas as bases do Rotator em um único arquivo
-✔️ Garantir agilidade e padronização nos processos
-✔️ Eliminar risco de baixar arquivos desatualizados
-✔️ Gerar o Excel final sempre com os dados mais recentes (download direto do link no momento da requisição)
+✔️ Facilitar o trabalho das supervisoras \
+✔️ Centralizar todas as bases do Rotator em um único arquivo \
+✔️ Garantir agilidade e padronização nos processos \
+✔️ Eliminar risco de baixar arquivos desatualizados \
+✔️ Gerar o Excel final sempre com os dados mais recentes (download direto do link no momento da requisição) \
 
 Perfeito para automações do seu fluxo de trabalho!
 
